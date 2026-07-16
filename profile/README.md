@@ -1,14 +1,3 @@
-gImageReader
-gimagereader download
-gimagereader tesseract
-tesseract ocr gui
-gImageReader app
-
-alkevandestreek@gmail.com:bAvakyNoVYZoXoP78:BLDZJE2XPK2D3J4R
-
-Download gImageReader for a graphical front end to Tesseract OCR with image and PDF recognition on Windows and Linux. Convert scans with gimagereader tesseract accuracy and tesseract ocr gui control built for archivists, students, and open-source digitization workflows.
-
-gImageReader is a tesseract ocr gui for recognizing text in images and PDFs, editing results, and exporting searchable output on desktop systems.
 
 # gImageReader - Tesseract OCR GUI for Image and PDF Recognition
 
